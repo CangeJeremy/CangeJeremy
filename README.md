@@ -2,7 +2,7 @@
 
 Welcome to my page !
 
-I'm Jérémy, PHP Developer from 🇧🇪 .  
+I'm Jérémy, PHP Developer from <img src="https://github.com/CangeJeremy/CangeJeremy/blob/Master/be.png" width="25" height="25"/> .  
 Currently doing a 🏫 training to be FullStack .NET Azure developper !
 
 ## 🔧 Current stack
