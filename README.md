@@ -1,8 +1,8 @@
-![](https://github.com/CangeJeremy/CangeJeremy/blob/Master/Hello.gif)
+<img src="[/images/output/video1.gif](https://github.com/CangeJeremy/CangeJeremy/blob/Master/Hello.gif)" width="100%" height="100%"/>
 
 Welcome to my page !
 
-I'm Jérémy, PHP Developer from ![Belgium](https://github.com/CangeJeremy/CangeJeremy/blob/Master/be.png).
+I'm Jérémy, PHP Developer from 🇧🇪 .  
 Currently doing a 🏫 training to be FullStack .NET Azure developper !
 
 ## 🔧 Current stack
@@ -21,5 +21,9 @@ Currently doing a 🏫 training to be FullStack .NET Azure developper !
 
 ## Also using
 ![Windows](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) ![Github](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+## Social
+
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-cange/)
 
 ![Profile](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CangeJeremy&theme=tokyonight)
