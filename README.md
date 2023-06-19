@@ -1,4 +1,4 @@
-<img src="[/images/output/video1.gif](https://github.com/CangeJeremy/CangeJeremy/blob/Master/Hello.gif)" width="100%" height="100%"/>
+<img src="https://github.com/CangeJeremy/CangeJeremy/blob/Master/Hello.gif" width="100%" height="100%"/>
 
 Welcome to my page !
 
