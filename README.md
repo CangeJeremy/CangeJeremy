@@ -3,7 +3,7 @@
 Welcome to my page !
 
 I'm Jérémy, PHP Developer from <img src="https://github.com/CangeJeremy/CangeJeremy/blob/Master/be.png" width="25" height="15"/> **Belgium** !    
-Currently doing a 🏫 training to be FullStack .NET Azure developper !
+Currently doing a 🏫 training to be FullStack developer .NET Azure & CyberSec oriented !
 
 ## 🔧 Current stack
 
@@ -17,7 +17,7 @@ Currently doing a 🏫 training to be FullStack .NET Azure developper !
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white) ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ## 🌱 I'm currently learning
-On hold during the end of my training as i have multiple projects going on.
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 🖥️ IDE
 ![PHPStorm](https://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white) ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
