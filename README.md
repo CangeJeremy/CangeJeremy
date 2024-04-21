@@ -10,7 +10,7 @@ I am currently undergoing training to enhance my skills in C# and the .NET Frame
 
 Passionate about development since a young age, I decided to turn my passion into a career. 
 
-Trained at BeCode as a Web Developer, I then landed a permanent position at Medisquare SA where I was able to develop my skills. 
+Trained at BeCode as a Web Developer, I then landed a permanent position where I was able to develop my skills. 
 
 Currently undergoing training to enhance my skills in C# and the .NET Framework as part of a FullStack Developer course with a focus on .NET, Azure, and Cybersecurity, i am seeking new professional opportunities to continue evolving in the field of software development.
 
