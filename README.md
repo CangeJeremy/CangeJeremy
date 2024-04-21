@@ -2,8 +2,8 @@
 
 Welcome to my page !
 
-I'm Jérémy, PHP Developer from <img src="https://github.com/CangeJeremy/CangeJeremy/blob/Master/be.png" width="25" height="15"/> **Belgium** !    
-Currently doing a 🏫 training to be FullStack developer .NET Azure & CyberSec oriented !
+I'm Jérémy, FullStack Developer from <img src="https://github.com/CangeJeremy/CangeJeremy/blob/Master/be.png" width="25" height="15"/> **Belgium** !  
+🏫 I am currently undergoing training to enhance my skills in C# and the .NET Framework as part of a FullStack Developer course with a focus on .NET, Azure, and Cybersecurity
 
 ## 🔧 Current stack
 
