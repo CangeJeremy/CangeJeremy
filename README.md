@@ -35,5 +35,3 @@ Currently undergoing training to enhance my skills in CyberSecurity as part of t
 ## Social
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-cange/)
-
-![Profile](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CangeJeremy&theme=tokyonight)
