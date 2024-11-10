@@ -4,15 +4,13 @@ Welcome to my page !
 
 I'm Jérémy, FullStack Developer from <img src="https://github.com/CangeJeremy/CangeJeremy/blob/Master/be.png" width="25" height="15"/> **Belgium** !  
 
-I am currently undergoing training to enhance my skills in C# and the .NET Framework as part of a FullStack Developer course with a focus on .NET, Azure, and Cybersecurity
-
 ## 👨🏻 About me
 
 Passionate about development since a young age, I decided to turn my passion into a career. 
 
 Trained at BeCode as a Web Developer, I then landed a permanent position where I was able to develop my skills. 
 
-Currently undergoing training to enhance my skills in C# and the .NET Framework as part of a FullStack Developer course with a focus on .NET, Azure, and Cybersecurity, i am seeking new professional opportunities to continue evolving in the field of software development.
+Currently undergoing training to enhance my skills in CyberSecurity as part of the CyberSecurity Architect course provided by Technofutur TIC, i am seeking new professional opportunities to continue evolving in the field of software development.
 
 ## 🔧 Current stack
 
