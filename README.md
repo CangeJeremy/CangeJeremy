@@ -10,7 +10,7 @@ Passionate about development since a young age, I decided to turn my passion int
 
 Trained at BeCode as a Web Developer, I then landed a permanent position where I was able to develop my skills. 
 
-Currently undergoing training to enhance my skills in CyberSecurity as part of the CyberSecurity Architect course provided by Technofutur TIC, i am seeking new professional opportunities to continue evolving in the field of software development.
+I am seeking new professional opportunities to continue evolving in the field of web & software development or cybersecurity.
 
 ## 🔧 Current stack
 
